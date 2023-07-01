@@ -1,0 +1,14 @@
+{
+  "author": "n-e-o-n-7 <44162454+n-e-o-n-7@users.noreply.github.com>",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write src/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/config-conventional": "^17.6.5",
+    "commitlint": "^17.6.5",
+    "husky": "^8.0.3",
+    "prettier": "^2.8.8"
+  }
+}
